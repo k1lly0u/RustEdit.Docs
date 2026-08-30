@@ -6,12 +6,11 @@ below becomes a page on the site, in the order it appears here.
 - [Getting Started](getting-started.md)
 - [Installing RustEdit](installing-rustedit.md)
 - [Your First Map](your-first-map.md)
+- [Controls and Hotkeys](controls-hotkeys.md)
 - [Working with Prefabs](prefabs.md)
 - [Troubleshooting](troubleshooting.md)
-
-Anything that isn't a link to a `.md` file in this repo - this paragraph, the
-heading above, a link to [the marketplace](https://rusthq.com/marketplace) - is
-ignored by the site, so this page stays readable on GitHub.
+- [Patreon](https://www.patreon.com/c/k1lly0u)
+ 
 
 Adding or editing a page? Read `README.md` first. Note that it is named here in
 plain text rather than linked: **every** markdown link to a `.md` file in this
