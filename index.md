@@ -7,6 +7,7 @@ below becomes a page on the site, in the order it appears here.
 - [Installing RustEdit](installing-rustedit.md)
 - [Your First Map](your-first-map.md)
 - [Controls and Hotkeys](controls-hotkeys.md)
+- [Localization](localization.md)
 - [Working with Prefabs](prefabs.md)
 - [Troubleshooting](troubleshooting.md)
 - [Patreon](https://www.patreon.com/c/k1lly0u)
