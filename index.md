@@ -10,7 +10,6 @@ below becomes a page on the site, in the order it appears here.
 - [Localization](localization.md)
 - [Working with Prefabs](prefabs.md)
 - [Troubleshooting](troubleshooting.md)
-- [Cache Probe](cache-probe.md)
 - [Patreon](https://www.patreon.com/c/k1lly0u)
  
 
