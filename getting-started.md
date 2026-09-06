@@ -1,5 +1,3 @@
-# Getting Started
-
 RustEdit is a map editor for Rust. It creates new maps or open procedural maps the game
 generates, lets you modify terrain, prefabs and spawn points, and saves a `.map` 
 file a server can load.

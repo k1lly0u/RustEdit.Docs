@@ -1,5 +1,3 @@
-# Controls and Hotkeys
-
 **Camera**
 ```
 W - Forward

@@ -2,9 +2,6 @@
 nav_label: Installation
 ---
 
-# Installing RustEdit
-
-
 ## Minimum Requirements
 **OS**: Windows 10+
 **PROCESSOR**: AMD Ryzen 5 1400 or Intel Core i5-6600
@@ -33,6 +30,7 @@ In Steam, right-click Rust in the Library tab and select `Properties`, navigate 
 This will open your Rust install folder on your PC. The path Steam opens is the one the editor wants.
 
 -# If you open the folder selection dialog and it is bare, then you have likely run in to a Windows permission problem.
+-# Either move the folder to a different location, or apply admin privileges to the launcher and RustEdit executables
 
 ## Updating
 To ensure you are always updated, run RustEdit via the launcher and click the `Check for updates` button.

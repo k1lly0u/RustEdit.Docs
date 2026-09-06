@@ -1,5 +1,3 @@
-# Localization
-
 RustEdit has localization support, here you can find some translation files.
 
 To install a translation file, download the desired language .json file below
