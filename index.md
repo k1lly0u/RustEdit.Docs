@@ -6,7 +6,6 @@ below becomes a page on the site, in the order it appears here.
 - [Installing RustEdit](installing-rustedit.md)
 - [Controls and Hotkeys](controls-hotkeys.md)
 - [Localization](localization.md)
-- [Working with Prefabs](prefabs.md)
 - [RustEdit Extension](rustedit-extension.md)
 - [IO Guide](io-guide.md)
 - [Auto Spawn Guide](auto-spawn-guide.md)
