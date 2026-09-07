@@ -4,8 +4,6 @@ title: Auto Spawn Guide
 
 Rusts spawn handler uses a spawn filter to determine where various spawn-able objects can spawn on a map
 
-These spawn filters 
-
 - **Splat** will spawn in any of the selected splat types
 - **Biome** will spawn in any of the selected biome types
 - **Topology Any** will spawn in any of the selected topologies
