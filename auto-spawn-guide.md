@@ -13,6 +13,7 @@ These spawn filters
 - *Topology Not* Will not spawn in areas that have any of these topologies
 
 | Prefabs | Splat | Biome | Topology Any | Topology All | Topology Not |
+| ------- | ----- | ----- | ------------ | ------------ | ------------ |
 | loot | Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel | Arid, Temperate, Tundra, Arctic, Jungle, DeepSea | Monument | - | Cliff, Summit, Ocean, Decor, Road, River, Lake, Offshore, Rail, Building, Cliffside, Mountain, Clutter |
 | ores | Dirt, Snow, Sand, Rock, Grass, Forest, Stones, Gravel | Temperate, Tundra | Decor, Cliffside, Clutter | - | Cliff, Beachside, Beach, Ocean, Oceanside, Monument, Road, Roadside, River, Riverside, Lake, Lakeside, Rail, Railside, Building |
 | collectable-food-mushroom | Forest | Temperate, Tundra, Jungle, DeepSea | Forest | - | Cliff, Summit, Ocean, Decor, Road, Swamp, River, Lake, Offshore, Rail, Railside, Building, Cliffside, Mountain, Clutter |
