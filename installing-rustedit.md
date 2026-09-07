@@ -12,7 +12,7 @@ nav_label: Installation
 
 ## Download / Install
 RustEdit uses a launcher program which will download RustEdit and also check for updates when launched.
-You can download the launcher [here](https://rusthq.com/product/rustedit-launcher)
+You can download the launcher [here](https://files.rusthq.com/rustedit/RustEditLauncher.exe)
 
 Run the launcher installer. 
 Pick a installation folder 
