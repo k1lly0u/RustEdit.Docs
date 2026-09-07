@@ -2,9 +2,6 @@
 title: IO Guide
 ---
 
----
-title: IO Guide
----
 **You need the RustEdit extension installed on your server for IO to work.**
 
 Before you get started, make sure you have either *Show IO Connections* or *Show selected IO Connections** toggled on in the *View* menu on the toolbar
