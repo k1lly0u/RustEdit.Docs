@@ -69,7 +69,7 @@ You also have 3 actions to choose between for a door manipulator;
 *Close* - Does the opposite of Open
 *Toggle* - Opens if closed when power is supplied, Closes is open when power is supplied.
 We just need to set it to Open for this circuit
-![io_doormanipulator](https://attachments.rusthq.com/3b1beed6834eacc014e9dde42847892126aafc2c3acc77fe12ae41d6b8b39bba)
+![io_doormanipulator](https://attachments.rusthq.com/3b1beed6834eacc014e9dde42847892126aafc2c3acc77fe12ae41d6b8b39bba =400x)
 
 **Step 5**
 Crack open a beer and congratulate yourself on a job well done
@@ -78,4 +78,4 @@ Here is a video demonstrating this circuit when the IO tools were first implemen
 !media(https://www.youtube.com/watch?v=wnhH6Cww7bo)
 
 Here is the circuit diagram
-![io_diagram](https://attachments.rusthq.com/fb4e8cb58ff624107de8d94b2512aaff48c63eb4fcddc64a7bd14250a352a46d)
+![io_diagram](https://attachments.rusthq.com/fb4e8cb58ff624107de8d94b2512aaff48c63eb4fcddc64a7bd14250a352a46d =400x)
