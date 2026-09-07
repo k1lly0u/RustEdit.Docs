@@ -3,7 +3,6 @@
 This file decides what the documentation section contains. Every markdown link
 below becomes a page on the site, in the order it appears here.
 
-- [Getting Started](getting-started.md)
 - [Installing RustEdit](installing-rustedit.md)
 - [Controls and Hotkeys](controls-hotkeys.md)
 - [Localization](localization.md)
