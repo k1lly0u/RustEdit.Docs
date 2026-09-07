@@ -5,7 +5,6 @@ below becomes a page on the site, in the order it appears here.
 
 - [Getting Started](getting-started.md)
 - [Installing RustEdit](installing-rustedit.md)
-- [Your First Map](your-first-map.md)
 - [Controls and Hotkeys](controls-hotkeys.md)
 - [Localization](localization.md)
 - [Working with Prefabs](prefabs.md)
