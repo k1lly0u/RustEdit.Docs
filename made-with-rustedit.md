@@ -2,4 +2,4 @@
 title: Made With RustEdit
 ---
 
-Made With RustEdit
+Content users have made with RustEdit
