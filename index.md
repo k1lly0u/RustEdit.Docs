@@ -9,6 +9,7 @@ below becomes a page on the site, in the order it appears here.
 - [RustEdit Extension](rustedit-extension.md)
 - [IO Guide](io-guide.md)
 - [Auto Spawn Guide](auto-spawn-guide.md)
+- [Made With RustEdit](gallery.md)
 - [Patreon](https://www.patreon.com/c/k1lly0u)
  
 
