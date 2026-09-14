@@ -11,6 +11,7 @@ below becomes a page on the site, in the order it appears here.
 - [Auto Spawn Guide](auto-spawn-guide.md)
 - [Made With RustEdit](made-with-rustedit.md)
 - [Patreon](https://www.patreon.com/c/k1lly0u)
+- [Discord](https://discord.gg/ZAZ7mm8B4D)
  
 
 Adding or editing a page? Read `README.md` first. Note that it is named here in
